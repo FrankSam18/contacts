@@ -1,0 +1,18 @@
+.contact {
+    background-color: rgba(210, 105, 30, 0.24);
+    padding: 0rem 2rem;
+}
+
+.contact h3, p {
+    background-color: inherit;
+}
+
+.contact-btn {
+    background-color: inherit;
+}
+
+.edit:hover , .delete:hover {
+    width: 80%;
+    font-weight: bolder;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
